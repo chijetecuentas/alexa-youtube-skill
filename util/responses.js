@@ -11,6 +11,18 @@ let messages = {
     "REPEAT_TRIGGERED": "I will repeat your {0} selection once.",
     "HELP_TRIGGERED": "To use the YouTube skill, tell the skill to search for the video you want. Additionally, once the video is playing, you can tell Alexa to pause, restart, or loop it."
   },
+  "es-US": {
+    "NO_RESULTS_FOUND": "{0} no arrojó ningún resultado en YouTube.",
+    "ASK_TO_PLAY": "Encontré un video llamado {0}. ¿Quieres que lo descargue ahora?",
+    "ASK_TO_CONTINUE": "Descarga aún en curso. ¿Quieres seguir esperando?",
+    "NOW_PLAYING": "Reproduciendo ahora {0}.",
+    "NOTHING_TO_RESUME": "No estás reproduciendo nada actualmente.",
+    "NOTHING_TO_REPEAT": "No ha seleccionado un video para reproducir.",
+    "LOOP_ON_TRIGGERED": "Voy a repetir {0} infinitamente.",
+    "LOOP_OFF_TRIGGERED": "Ya no repetiré {0} seleccionado.",
+    "REPEAT_TRIGGERED": "Voy a repetir {0} una vez.",
+    "HELP_TRIGGERED": "Para usar la habilidad de YouTube, dígale a la habilidad que busque el video que desea. Además, una vez que se reproduce el video, puede decirle a Alexa que lo pause, reinicie o repita."
+  },
   "de-DE": {
     "NO_RESULTS_FOUND": "Keine Ergebnisse auf Youtube gefunden.",
     "ASK_TO_PLAY": "Ich habe ein Video mit dem Namen {0} gefunden. Möchtest du, dass ich es spiele?",
