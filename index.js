@@ -13,7 +13,7 @@ let response_messages = require("./util/responses.js");
 let app = new alexa.app("youtube");
 
 // Process environment variables 
-const HEROKU = process.env.HEROKU_APP_URL || "https://dmhacker-youtube.herokuapp.com";
+const HEROKU = process.env.HEROKU_APP_URL || "https://chijete-youtube.herokuapp.com";
 const INTERACTIVE_WAIT = !(process.env.DISABLE_INTERACTIVE_WAIT === "true" ||
   process.env.DISABLE_INTERACTIVE_WAIT === true ||
   process.env.DISABLE_INTERACTIVE_WAIT === 1);
